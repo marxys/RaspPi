@@ -1,0 +1,19 @@
+{
+  "name": "rasppi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rasppi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marxys/RaspPi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marxys/RaspPi/issues"
+  },
+  "homepage": "https://github.com/marxys/RaspPi#readme"
+}
