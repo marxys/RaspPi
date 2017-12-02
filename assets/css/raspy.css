@@ -1,0 +1,22 @@
+.red-title {
+    color: #990000;
+}
+
+body h1 {
+    color: #000099;
+}
+
+section {
+    height: 100vh;
+}
+
+section#launcher{
+    background-image: url('../img/bg.jpg');
+}
+
+section#launcher img {
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+}
